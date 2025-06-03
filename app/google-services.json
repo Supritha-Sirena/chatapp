@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "823639545727",
+    "firebase_url": "https://bit-messenger-d052b-default-rtdb.firebaseio.com",
+    "project_id": "bit-messenger-d052b",
+    "storage_bucket": "bit-messenger-d052b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823639545727:android:f8e566b274ca7e4327ac4a",
+        "android_client_info": {
+          "package_name": "com.example.bitmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsTzaEVBVexPFQn4vdf_e6NZWCYwN9IfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
